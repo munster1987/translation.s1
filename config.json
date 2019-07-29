@@ -3,5 +3,5 @@
     "prefix": ":ts",
     "owner": ["424257720053399552"],
     "playingStatus": ":ts",
-    "tsChannelsEnabled": yes
+    "tsChannelsEnabled": true
 }
